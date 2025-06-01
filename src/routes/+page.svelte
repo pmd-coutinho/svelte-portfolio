@@ -25,9 +25,6 @@
 		try editing <strong>src/routes/+page.svelte</strong>
 	</h2>
 
-	#markdown testttttt
-	##markdown test 2
-
 	<h2>
 		testttttt
 	</h2>
