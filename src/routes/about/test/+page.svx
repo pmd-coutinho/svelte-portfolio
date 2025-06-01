@@ -2,7 +2,7 @@
 	import Counter from '../../Counter.svelte';
 </script>
 
-#Test Markdown
+# Test Markdown
 ## Test Markdown 2
 
 <Counter />
